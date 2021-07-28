@@ -16,7 +16,7 @@ function makan($nama_makanan){
     echo "baca doa";
     echo "masukkan $nama_makanan";
     echo "kunyah $nama_makanan";
-    echo " Telan $nama_makanan";
+    echo "Telan $nama_makanan";
 }
 
 //echo prokes();
